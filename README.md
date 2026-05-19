@@ -37,3 +37,28 @@ Users answer quiz questions to earn a discount, which is applied to their final 
 1. Make sure Python is installed
 2. Clone the repository:
 ```bash
+   git clone https://github.com/yachikadev/quiz-shopping-system-python.git
+   cd quiz-shopping-system-python
+```
+3. Run the program:
+```bash
+   python main.py
+```
+---
+## 📂 Output Files
+* score.txt → Stores quiz scores with date & time
+* bill.txt → Stores detailed shopping bills
+---
+## 📷 Sample Output
+=== QUIZ TIME ===
+Question: ...
+Correct!
+=== SHOPPING CART ===
+Item            Price      Quantity
+Apple           50         2        100
+Subtotal: ₹100
+Discount (10%): -₹10
+Final Bill: ₹90
+---
+## 👩‍💻 Author
+Yachika Sharma
