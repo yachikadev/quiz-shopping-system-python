@@ -25,7 +25,7 @@ Users answer quiz questions to earn a discount, which is applied to their final 
 1. User enters their name
 2. Quiz starts (3 random questions)
 3. Each correct answer = 10 points
-4. Based on score:
+4. Based on score:-
    * 30 → 20% discount
    * 20 → 10% discount
    * Less than 20 → No discount
