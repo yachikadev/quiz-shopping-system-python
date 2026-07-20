@@ -8,7 +8,7 @@ Users answer quiz questions to earn a discount, which is applied to their final 
 * Add multiple items to shopping cart
 * Automatic bill calculation
 * Discount applied on total bill
-* Saves user score and shopping bill in files,
+* Saves user score and shopping bill in files
 * User name tracking
 ---
 ## 🛠️ Tech Used
