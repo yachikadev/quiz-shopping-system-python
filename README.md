@@ -35,7 +35,7 @@ Users answer quiz questions to earn a discount, which is applied to their final 
 ---
 ## ▶️ How to Run
 1. Make sure Python is installed
-2. Clone the repository:
+2. Clone the repository:-
 ```bash
    git clone https://github.com/yachikadev/quiz-shopping-system-python.git
    cd quiz-shopping-system-python
